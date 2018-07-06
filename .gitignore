@@ -1,0 +1,8 @@
+truffle.js
+*.json
+*.rdb
+.babelrc
+node_modules/
+migrations/2_*
+truffle-config.js
+.DS_store
